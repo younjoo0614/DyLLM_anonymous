@@ -34,6 +34,8 @@ DyLLM basically picks salient tokens from the response tokens and attends the wh
 
 ### Overall Comparison
 
+**All accuracy test logs are in `results` folder**
+
 ![result table](assets/result_table.png)
 
 ![scalability](assets/eight_plots.png)
